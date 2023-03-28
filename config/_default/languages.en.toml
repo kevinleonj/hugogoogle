@@ -1,0 +1,26 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "My minimalistic website"
+description = "My minimalistic website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[params]
+  #mainSections = ["section1", "section2"]
+
+[author]
+   name = "Kevin León"
+   image = "img/ProfilePictureLinkedIn.jpg"
+   headline = "My name is Kevin Daniel León Jouvin, but everybody calls me Kevin. \nInternational Management student."
+   bio = "International Management student."
+   links = [
+    { instagram = "https://instagram.com/kevinleonj" },
+    { linkedin = "https://linkedin.com/in/kevinleonj" },
+    { spotify = "https://open.spotify.com/user/chevlon15" },
+   ]
