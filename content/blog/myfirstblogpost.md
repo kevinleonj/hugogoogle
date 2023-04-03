@@ -1,6 +1,6 @@
 ---
-title: "My First Blog Post"
+title: "Coming soon"
 date: 2023-03-28
-summary: "Learn more about me and why I am starting this blog."
+summary: "Cooming soon"
 ---
-This is the content of my blog post.
+Cooming soon.
