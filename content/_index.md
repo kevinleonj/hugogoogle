@@ -1,5 +1,5 @@
 ---
 ---
 {{< button href="https://youtu.be/c5KCfomUgVE">}}
-Listen to my favorite song! :)
+Click me: Spotify playlist
 {{< /button >}}
